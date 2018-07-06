@@ -8,7 +8,6 @@ Measuring accuracy of different Models and try to improve it.
 
 ![images 1](https://user-images.githubusercontent.com/29937202/42339045-6e171e3e-80a9-11e8-86d5-181766996cd2.png)
 
-
 #### Steps to install 
 ~~~
 Step 1 — Create New Conda Environment
