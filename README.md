@@ -1,4 +1,4 @@
-## ANN Model testing and training Accuracy
+# ANN Model testing and training Accuracy:
 ![earlystopping](https://user-images.githubusercontent.com/29937202/42337822-84542bfa-80a5-11e8-919c-de985e71030b.png)
 ![images](https://user-images.githubusercontent.com/29937202/42337757-5676cc1a-80a5-11e8-9412-78c6f67bf0d5.png)  
 
@@ -8,7 +8,7 @@ Measuring accuracy of different Models and try to improve it.
 
 ![images 1](https://user-images.githubusercontent.com/29937202/42339045-6e171e3e-80a9-11e8-86d5-181766996cd2.png)
 
-#### Steps to install 
+## Steps to install: 
 ~~~
 Step 1 — Create New Conda Environment
 •conda create -n py35 python=3.5 anaconda
@@ -21,7 +21,7 @@ Step 4 — Run Spyder from the Environment
 Step 5 — Test the Packages
 
 ~~~
-#### Library Used:
+### Library Used:
 ~~~
 •Matplotlib
 •Pandas
@@ -32,5 +32,5 @@ Step 5 — Test the Packages
 •Theano
 ~~~
 
-##### Accuracy 
+#### Accuracy: 
 This Neural Network Reaches 86%.
